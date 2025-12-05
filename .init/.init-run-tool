@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/beauty-products-catalog-220996-221005/beauty_product_catalogue_frontend"
+}
